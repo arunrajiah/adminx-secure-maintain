@@ -202,13 +202,13 @@ This plugin is licensed under the GPL v2 or later.
 
 **Arun Rajiah**
 - GitHub: [@arunrajiah](https://github.com/arunrajiah)
-- Website: [Your Website]
+- LinkedIn: [arunrajiah](https://linkedin.com/in/arunrajiah)
 
 ## 🆘 Support
 
 For support and questions:
 - Create an issue on [GitHub](https://github.com/arunrajiah/adminx-secure-maintain/issues)
-- Contact: [your-email@domain.com]
+- GitHub Discussions: [AdminX Secure Maintain Discussions](https://github.com/arunrajiah/adminx-secure-maintain/discussions)
 
 ---
 
