@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="AdminX Secure Maintain logo">
+  <defs><linearGradient id="g" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#111827"/></linearGradient></defs>
+  <rect width="96" height="96" rx="22" fill="url(#g)"/>
+  <path d="M48 21 70 31v18c0 15-8 25-22 30-14-5-22-15-22-30V31l22-10Z" fill="#fff"/>
+  <path d="M38 50 46 58 61 41" stroke="#2563EB" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
